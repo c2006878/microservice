@@ -3,4 +3,4 @@ spring:
     name: demo
 
 server:
-  port: 11001
+  port: 11003
